@@ -22,12 +22,12 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
-    backgroundColor: "#550",
+    backgroundColor: "rgba(228, 27, 27, 1)",
   },
   button: {
     marginTop: 20,
     padding: 10,
-    backgroundColor: "#000000",
+    backgroundColor: "#786b6bff",
     borderRadius: 5,
   },
   buttonText: {
