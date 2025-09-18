@@ -7,7 +7,7 @@ export default function Login() {
   const [password, setPassword] = useState('');
 
   const handleLogin = () => {
-    if (username === 'gutierrezkentjosh@gmail.com' && password === '98765421') {
+    if (username === 'danaxelvillanueva@gmail.com' && password === 'dandandan') {
       console.log('Login successful!');
       
     } else {
